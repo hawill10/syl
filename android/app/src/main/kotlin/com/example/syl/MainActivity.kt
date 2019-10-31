@@ -1,4 +1,4 @@
-package com.syl.syl
+package com.example.syl
 
 import android.os.Bundle
 
